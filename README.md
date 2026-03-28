@@ -292,7 +292,7 @@ hh-autoclicker/
 
 **Контакты автора:**
 - 📧 Email: temkru45@gmail.com
-- 💬 Telegram: [@swiftdoom](https://t.me/swiftdoom)
+- 💬 Telegram: [@kruglov_msc](https://t.me/kruglov_msc)
 - 💼 Резюме на hh.ru: [Круглов Артём Геннадьевич](https://hh.ru/resume/84ea26b5ff03be06d70039ed1f4946666b746a)
 
 ## 📄 Лицензия
